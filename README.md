@@ -1,4 +1,4 @@
-# Data Science Project :)
+# Data Science Project 🥇
 
 Our aim in this project was to undergo the lifecycle of data science on a combination of two datasets that were provided to us 
 NoteBook created by <br /> 
