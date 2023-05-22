@@ -44,8 +44,13 @@ idk what to write exactly
 ## Results 📊 <a name="results"></a>
 
 **Kaggle Score 🎯**
-
+Logistic Regression With under Sampling
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/dc00c829-9bcf-4be1-b66d-e8389558dc9a)
+
+Alternative Method XGBoost With Grid Search
+
+![Image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/96dc6c30-27e8-4a75-83f5-88ead315c378)
+
 
 **AUROC 📈**
 
