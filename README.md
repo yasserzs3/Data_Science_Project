@@ -40,7 +40,6 @@ if your setup looks like this you are good to go 👍
 ## Reproducing results 🔁 <a name="reproducing-results"></a>
 
 We have deployed our model into the huggingface platform <br /> 
-<br /> 
 
 Model link: https://huggingface.co/spaces/FerasOo/stroke_prediction <br /> 
 
