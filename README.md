@@ -8,12 +8,12 @@ NoteBook created by <br />
 
 
 ## Table of Contents 🗺️
-- [Requirements 📋](#Requirements)
+- [Requirements](#requirements)
 - [Data](#data)
 - [Reproducing results](#reproducing-results)
 - [Results](#results)
 
-## Requirements 📋
+## Requirements 📋 <a name="requirements"></a>
 
 - Python 3.8.8
 - Pandas-1.2.4
@@ -23,15 +23,15 @@ NoteBook created by <br />
 - Plotly 5.14.1
 - Seaborn 0.11.1
 
-## Data ℹ️
+## Data ℹ️ <a name="data"></a>
 
 The dataset used in this project can be obtained from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset and https://www.kaggle.com/competitions/playground-series-s3e2/data . Download the dataset and place it in the project directory.
 
-## Reproducing results 🔁
+## Reproducing results 🔁 <a name="reproducing-results"></a>
 
 grgdfg
 
-## Results 📊
+## Results 📊 <a name="results"></a>
 
 **Kaggle Score 🎯**
 
