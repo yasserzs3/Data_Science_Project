@@ -31,7 +31,7 @@ The dataset used in this project can be obtained from https://www.kaggle.com/dat
 
 ## Setup ⚙️ <a name="setup"></a>
 
-Download the notebook + the datasets from the provided links after that put everythig in the same dircetry to avoid any problems lastly install the required  python libaris and you are good to go
+Download the notebook + the datasets from the provided links after that put everything in the same directory to avoid any problems lastly install the required python libraries and you are good to go
 
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/e1ef25d4-bc74-4b11-b8af-735864a6c4dc)
 
