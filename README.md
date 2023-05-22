@@ -48,7 +48,9 @@ idk what to write exactly
 <br /> 
 Logistic Regression With under Sampling
 
-![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/dc00c829-9bcf-4be1-b66d-e8389558dc9a)
+
+![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/e28e625b-3edd-4689-a66f-064a80d2e42d)
+
 
 Alternative Method XGBoost With Grid Search
 
