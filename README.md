@@ -8,7 +8,7 @@ NoteBook created by <br />
 
 
 ## Table of Contents 🗺️
-- [Requirements](#Requirements)
+- [Requirements 📋](#Requirements)
 - [Data](#data)
 - [Reproducing results](#reproducing-results)
 - [Results](#results)
