@@ -39,7 +39,15 @@ if your setup looks like this you are good to go 👍
 
 ## Reproducing results 🔁 <a name="reproducing-results"></a>
 
-idk what to write exactly
+We have deployed our model into the huggingface platform <br /> 
+Inorder to recreate the same results as we did, just upload the test.csv file in csv file section in the left 
+
+![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/0b752556-2551-43bf-b5e8-ac8659829ab7)
+
+wait for a bit of time and if the browser become unresponsive just press wait <br /> 
+
+
+When it is done you can export the file by pressing Export on the right of the screen and upload the file into the kaggle competetion
 
 ## Results 📊 <a name="results"></a>
 
