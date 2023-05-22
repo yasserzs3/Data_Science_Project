@@ -52,8 +52,6 @@ Wait for a bit of time and if the browser become unresponsive press wait <br />
 
 When it is done you can export the file by pressing Export on the right of the screen and upload the file into the kaggle competetion <br /> 
 
-<br/>
-
 Kaggle link: https://www.kaggle.com/competitions/playground-series-s3e2/submissions
 
 ## Results 📊 <a name="results"></a>
