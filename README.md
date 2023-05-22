@@ -10,6 +10,7 @@ NoteBook created by <br />
 ## Table of Contents 🗺️
 - [Requirements](#requirements)
 - [Data](#data)
+- [Setup](#setup)
 - [Reproducing results](#reproducing-results)
 - [Results](#results)
 
@@ -26,6 +27,14 @@ NoteBook created by <br />
 ## Data ℹ️ <a name="data"></a>
 
 The dataset used in this project can be obtained from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset and https://www.kaggle.com/competitions/playground-series-s3e2/data .
+
+
+## Setup ⚙️
+
+Download the notebook + the datasets from the provided links after that put everythig in the same dircetry to avoid any problems lastly install the required  python libaris and you are good to go
+
+![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/e1ef25d4-bc74-4b11-b8af-735864a6c4dc)
+
 
 ## Reproducing results 🔁 <a name="reproducing-results"></a>
 
