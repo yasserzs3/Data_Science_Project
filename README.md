@@ -53,7 +53,9 @@ Wait for a bit of time and if the browser become unresponsive press wait <br />
 
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/22c63c9a-d1da-417b-8fb6-a80d1c0b2b61)
 
-When it is done you can export the file by pressing Export on the right of the screen and upload the file into the kaggle competetion <br /> 
+When it is done you can export the file by pressing Export on the right of the screen and download the results file <br /> 
+
+Finally upload the file in the kaggle website provided below and see the result <br /> 
 
 Kaggle link: https://www.kaggle.com/competitions/playground-series-s3e2/submissions
 
