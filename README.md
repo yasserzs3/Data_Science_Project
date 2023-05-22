@@ -31,7 +31,7 @@ The dataset used in this project can be obtained from https://www.kaggle.com/dat
 
 ## Setup ⚙️ <a name="setup"></a>
 
-Download the notebook + the datasets from the provided links after that put everything in the same directory to avoid any problems lastly install the required python libraries and you are good to go
+Download the notebook + the datasets from the provided links after that put everything in the same directory to avoid any problems lastly install the required python libraries
 
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/e1ef25d4-bc74-4b11-b8af-735864a6c4dc)
 
@@ -58,6 +58,6 @@ Logistic Regression With under Sampling
 
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/3fa68a42-547f-4c66-aee5-7548e5b30b0d)
 
-Alternative Method XGBoost With Grid Search
+Alternative Method XGBoost With Grid Search ↔️
 
 ![Image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/96dc6c30-27e8-4a75-83f5-88ead315c378)
