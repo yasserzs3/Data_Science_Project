@@ -7,13 +7,13 @@ NoteBook created by <br />
 🌟 Briksam <br /> 
 
 
-## Table of Contents
+## Table of Contents 🗺️
 - [Requirements](#requirements)
 - [Data](#data)
 - [Reproducing results](#reproducing)
 - [Results](#results)
 
-## Requirements
+## Requirements 📋
 
 - Python 3.8.8
 - Pandas-1.2.4
