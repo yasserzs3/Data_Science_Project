@@ -1,12 +1,11 @@
 # Data Science Project :)
 
-Our aim in this project was to undergo the lifecycle of data science on two datasets that were provided to us
+Our aim in this project was to undergo the lifecycle of data science on two datasets that were provided to us 
 
 ## Table of Contents
 - [Requirements](#requirements)
 - [Data](#data)
-- [Code Explanation](#code-explanation)
-- [Instructions](#instructions)
+- [Reproducing Results](#Reproducing Results)
 - [Results](#results)
 
 ## Requirements
@@ -23,4 +22,13 @@ Our aim in this project was to undergo the lifecycle of data science on two data
 
 The dataset used in this project can be obtained from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset and https://www.kaggle.com/competitions/playground-series-s3e2/data . Download the dataset and place it in the project directory.
 
-##
+## Reproducing Results
+
+
+
+## Results
+
+
+
+![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/dc00c829-9bcf-4be1-b66d-e8389558dc9a)
+
