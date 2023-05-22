@@ -29,12 +29,13 @@ NoteBook created by <br />
 The dataset used in this project can be obtained from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset and https://www.kaggle.com/competitions/playground-series-s3e2/data .
 
 
-## Setup ⚙️
+## Setup ⚙️ <a name="setup"></a>
 
 Download the notebook + the datasets from the provided links after that put everythig in the same dircetry to avoid any problems lastly install the required  python libaris and you are good to go
 
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/e1ef25d4-bc74-4b11-b8af-735864a6c4dc)
 
+if your setup looks like this you are good to go 👍
 
 ## Reproducing results 🔁 <a name="reproducing-results"></a>
 
