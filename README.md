@@ -1,6 +1,6 @@
 # Data Science Project 🥇
 
-Our aim in this project was to undergo the lifecycle of data science on a combination of two datasets that were provided to us 
+Our aim in this project was to undergo the lifecycle of data science on a combination of two datasets that were provided to us <br /> 
 NoteBook created by <br /> 
 🌟 Yaser Shoshaa <br />
 🌟 Firas Elbayoumi <br /> 
