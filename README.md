@@ -48,14 +48,7 @@ idk what to write exactly
 <br /> 
 Logistic Regression With under Sampling
 
-
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/e28e625b-3edd-4689-a66f-064a80d2e42d)
-
-
-Alternative Method XGBoost With Grid Search
-
-![Image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/96dc6c30-27e8-4a75-83f5-88ead315c378)
-
 
 **AUROC 📈**
 
@@ -64,3 +57,7 @@ Alternative Method XGBoost With Grid Search
 **F1 Score 📌**
 
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/3fa68a42-547f-4c66-aee5-7548e5b30b0d)
+
+Alternative Method XGBoost With Grid Search
+
+![Image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/96dc6c30-27e8-4a75-83f5-88ead315c378)
