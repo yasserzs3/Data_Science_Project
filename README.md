@@ -37,7 +37,7 @@ Download the notebook + the datasets from the provided links after that put ever
 
 if your setup looks like this you are good to go 👍
 
-## Reproducing results 🔁 <a name="reproducing-results"></a>
+## Reproducing Results 🔁 <a name="reproducing-results"></a>
 
 We have deployed our model into the huggingface platform <br /> 
 
@@ -48,8 +48,6 @@ Inorder to recreate the same results as we did, just upload the test.csv file in
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/0b752556-2551-43bf-b5e8-ac8659829ab7)
 
 Wait for a bit of time and if the browser become unresponsive press wait <br /> 
-
-<br /> 
 
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/22c63c9a-d1da-417b-8fb6-a80d1c0b2b61)
 
