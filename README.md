@@ -1,10 +1,10 @@
 # Data Science Project :)
 
 Our aim in this project was to undergo the lifecycle of data science on two datasets that were provided to us 
-NoteBook created by
-:star2: Yaser Shoshaa
-:star2: Firas
-:star2: Briksam
+NoteBook created by <br /> 
+:star2: Yaser Shoshaa <br /> 
+:star2: Firas <br /> 
+:star2: Briksam <br /> 
 
 
 ## Table of Contents
