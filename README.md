@@ -25,11 +25,11 @@ NoteBook created by <br />
 
 ## Data ℹ️ <a name="data"></a>
 
-The dataset used in this project can be obtained from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset and https://www.kaggle.com/competitions/playground-series-s3e2/data . Download the dataset and place it in the project directory.
+The dataset used in this project can be obtained from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset and https://www.kaggle.com/competitions/playground-series-s3e2/data .
 
 ## Reproducing results 🔁 <a name="reproducing-results"></a>
 
-grgdfg
+idk what to write exactly
 
 ## Results 📊 <a name="results"></a>
 
