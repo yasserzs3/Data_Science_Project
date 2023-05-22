@@ -1,10 +1,10 @@
 # Data Science Project :)
 
-Our aim in this project was to undergo the lifecycle of data science on two datasets that were provided to us 
+Our aim in this project was to undergo the lifecycle of data science on a combination of two datasets that were provided to us 
 NoteBook created by <br /> 
-:star2: Yaser Shoshaa <br /> 
-:star2: Firas <br /> 
-:star2: Briksam <br /> 
+🌟 Yaser Shoshaa <br /> 
+🌟 Firas <br /> 
+🌟 Briksam <br /> 
 
 
 ## Table of Contents
@@ -31,16 +31,16 @@ The dataset used in this project can be obtained from https://www.kaggle.com/dat
 
 grgdfg
 
-## Results
+## Results 📊
 
-**Kaggle Score**
+**Kaggle Score 🎯**
 
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/dc00c829-9bcf-4be1-b66d-e8389558dc9a)
 
-**AUROC**
+**AUROC 📈**
 
 ![auroc](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/0b02f6ce-81c0-4cec-90d8-6318dc684329)
 
-**F1 Score**
+**F1 Score 📌**
 
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/3fa68a42-547f-4c66-aee5-7548e5b30b0d)
