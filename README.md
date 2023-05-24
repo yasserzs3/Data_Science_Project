@@ -43,7 +43,7 @@ if your setup looks like this you are good to go 👍
 
 We have deployed our model into the huggingface platform <br /> 
 
-Model link: https://huggingface.co/spaces/FerasOo/stroke_prediction <br /> 
+[Model] (https://huggingface.co/spaces/FerasOo/stroke_prediction) <br /> 
 
 Inorder to recreate the same results as we did, just upload the test.csv file in csv file section in the left 
 
