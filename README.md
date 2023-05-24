@@ -27,7 +27,7 @@ NoteBook created by <br />
 ## Data ℹ️ <a name="data"></a>
 
 The datasets used in this project can be obtained from <br/ >
-1. [Real-world data: The Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) <br/ >
+1. [Real-world data: The Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) 
 2. [Synthetic data: The Synthetic Stroke Prediction Dataset](https://www.kaggle.com/competitions/playground-series-s3e2/data)
 
 
