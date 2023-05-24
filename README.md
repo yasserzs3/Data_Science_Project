@@ -39,7 +39,7 @@ Download the notebook + the datasets from the provided links after that put ever
 
 if your setup looks like this you are good to go 👍
 
-## [Reproducing Results 🔁](https://huggingface.co/spaces/FerasOo/stroke_prediction) <a name="reproducing-results"></a>
+## Reproducing Results 🔁 <a name="reproducing-results"></a>
 
 We have deployed our model into the huggingface platform <br /> 
 
@@ -57,7 +57,7 @@ When it is done you can export the file by pressing Export on the right of the s
 
 Finally upload the file in the kaggle website provided below and see the result <br /> 
 
-Kaggle link: https://www.kaggle.com/competitions/playground-series-s3e2/submissions
+[Submission](https://www.kaggle.com/competitions/playground-series-s3e2/submissions)
 
 ## Results 📊 <a name="results"></a>
 
