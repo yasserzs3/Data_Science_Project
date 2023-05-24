@@ -39,7 +39,7 @@ Download the notebook + the datasets from the provided links after that put ever
 
 if your setup looks like this you are good to go 👍
 
-## Reproducing Results 🔁 <a name="reproducing-results"></a>
+## [Reproducing Results 🔁](https://huggingface.co/spaces/FerasOo/stroke_prediction) <a name="reproducing-results"></a>
 
 We have deployed our model into the huggingface platform <br /> 
 
