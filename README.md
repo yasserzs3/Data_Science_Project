@@ -37,7 +37,7 @@ The datasets used in this project can be obtained from <br />
 
 Download the notebook + the datasets from the provided links after that put everything in the same directory to avoid any problems lastly install the required python libraries
 
-![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/e1ef25d4-bc74-4b11-b8af-735864a6c4dc)
+![image](imgs/Setup.png)
 
 if your setup looks like this you are good to go 👍
 
