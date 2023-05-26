@@ -26,6 +26,10 @@ NoteBook created by <br />
 - feature-engine 1.6.0
 - xgboost 1.7.5
 
+```
+pip install -r requirements.txt
+```
+
 ## Data ℹ️ <a name="data"></a>
 
 The datasets used in this project can be obtained from <br />
