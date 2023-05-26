@@ -44,7 +44,7 @@ if your setup looks like this you are good to go 👍
 
 ## Reproducing Results 🔁 <a name="reproducing-results"></a>
 
-We have deployed our model into the huggingface platform <br /> 
+We have deployed our Logistic Regression With under Sampling Model into the huggingface platform <br /> 
 
 Model Link https://huggingface.co/spaces/FerasOo/stroke_prediction <br /> 
 
