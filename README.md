@@ -23,6 +23,9 @@ NoteBook created by <br />
 - Matplotlib 3.3.4
 - Plotly 5.14.1
 - Seaborn 0.11.1
+- missingno 0.5.2
+- feature-engine 1.6.0
+- xgboost 1.7.5
 
 ## Data ℹ️ <a name="data"></a>
 
