@@ -75,7 +75,7 @@ Logistic Regression With under Sampling
 
 ![auroc](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/0b02f6ce-81c0-4cec-90d8-6318dc684329)
 
-**F1 Score 📌**
+**Evaluation Metrics 📌**
 
 ![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/3fa68a42-547f-4c66-aee5-7548e5b30b0d)
 
