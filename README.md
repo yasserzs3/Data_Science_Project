@@ -49,11 +49,11 @@ Model Link https://huggingface.co/spaces/FerasOo/stroke_prediction <br />
 
 Inorder to recreate the same results as we did, just upload the test.csv file in csv file section in the left 
 
-![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/0b752556-2551-43bf-b5e8-ac8659829ab7)
+![image](imgs/Model_Step1.png)
 
 Wait for a bit of time and if the browser become unresponsive press wait <br /> 
 
-![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/22c63c9a-d1da-417b-8fb6-a80d1c0b2b61)
+![image](imgs/Model_Step2.png)
 
 When it is done you can export the file by pressing Export on the right of the screen and download the results file <br /> 
 
@@ -68,16 +68,16 @@ Finally upload the file in the kaggle website provided below and see the result 
 <br /> 
 Logistic Regression With under Sampling
 
-![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/e28e625b-3edd-4689-a66f-064a80d2e42d)
+![image](imgs/LG_US.png)
 
 **AUROC 📈**
 
-![auroc](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/0b02f6ce-81c0-4cec-90d8-6318dc684329)
+![auroc](imgs/AUC.png)
 
 **Evaluation Metrics 📌**
 
-![image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/3fa68a42-547f-4c66-aee5-7548e5b30b0d)
+![image](imgs/Eva.png)
 
 Alternative Method XGBoost With Grid Search ↔️
 
-![Image](https://github.com/yasserzs3/Data_Science_Project/assets/68787298/96dc6c30-27e8-4a75-83f5-88ead315c378)
+![Image](imgs/XGBoost.jepg)
