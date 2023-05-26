@@ -80,4 +80,4 @@ Logistic Regression With under Sampling
 
 Alternative Method XGBoost With Grid Search ↔️
 
-![Image](imgs/XGBoost.jepg)
+![Image](imgs/XGBoost.jpeg)
